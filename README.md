@@ -14,7 +14,7 @@ Welcome to my GitHub space, where I blend my love for coding with my creativity 
 
 ### How to reach me 📫 ...
 
-- **LinkedIn:** [Mauro Gigena](https://www.linkedin.com/in/mauro-gigena)
+- **LinkedIn:** [Mauro Gigena](https://www.linkedin.com/in/mauro-gigena-a9a00a1b0/)
 - **Gmail:** [maurogigena9@gmail.com](mailto:maurogigena9@gmail.com)
 
 ![Coding](https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif)
